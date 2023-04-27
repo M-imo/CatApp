@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CatApp</string>
+    <string name="share">Share</string>
+    <string name="cat_image_desc">Cat Image</string>
+    <string name="reload">Randomize</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed pulvinar nisi. Fusce non consequat ligula, non porttitor felis. Curabitur blandit est lectus, at tincidunt turpis fringilla non. Mauris molestie, ligula vitae vestibulum imperdiet, quam massa cursus massa, eget ultricies nisi ante pretium purus. Duis vitae mi et ante dignissim convallis. Nam lacinia dolor vel ex vestibulum, quis rhoncus nibh imperdiet. Aliquam erat volutpat. Etiam quis turpis interdum, laoreet est sit amet, egestas enim. Sed erat ex, gravida et nibh ut, lacinia volutpat lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque placerat elit nec volutpat molestie.</string>
+</resources>
